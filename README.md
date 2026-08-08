@@ -19,8 +19,11 @@
 ```bash
 # 初次运行
 git clone https://github.com/fatekey/gcp_free && cd gcp_free && bash start.sh
-# 再次运行
-cd ./gcp_free && bash start.sh
+```
+
+```
+# 再次运行, from project root
+bash start.sh
 ```
 
 ## 环境要求
