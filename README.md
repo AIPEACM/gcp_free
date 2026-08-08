@@ -21,7 +21,7 @@
 git clone https://github.com/fatekey/gcp_free && cd gcp_free && bash start.sh
 ```
 
-```
+```bash
 # 再次运行, from project root
 bash start.sh
 ```
